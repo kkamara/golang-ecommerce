@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/kkamara/go-ecommerce/commands"
-	"github.com/kkamara/go-ecommerce/database"
+	"github.com/kkamara/golang-ecommerce/commands"
+	"github.com/kkamara/golang-ecommerce/database"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/template/html"

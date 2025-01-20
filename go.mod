@@ -1,4 +1,4 @@
-module github.com/kkamara/go-ecommerce
+module github.com/kkamara/golang-ecommerce
 
 // +heroku goVersion go1.17
 go 1.17
