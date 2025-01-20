@@ -1,4 +1,4 @@
-# ecommerce
+# golang-ecommerce
 
 Go, Mysql, Redis, Selenium.
 
